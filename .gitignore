@@ -100,10 +100,10 @@ dist
 .tern-port
 
 # dotenv environment variables file
-# .env
+.env
 .env.test
 
 package-lock.json
 shrinkwrap.yaml
 .data/
-# .eslintrc.json
+.eslintrc.json
